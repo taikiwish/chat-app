@@ -120,20 +120,20 @@
   display: flex;
 }
 
-.message_form {
+.form-input {
   width: 100%;
   background-color: white;
   display: flex;
 }
 
-.text_form {
+.form-message {
   border: none;
   width: 100%;
   height: 50px;
   padding-left: 10px;
 }
 
-.send_btn {
+.form-submit {
   border: none;
   height: 50px;
   width: 80px;
